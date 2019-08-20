@@ -11,6 +11,9 @@ author: Shigeru TOMIZAWA
 language: ja
 timezone: Japan
 
+# Google Analytics
+google_analytics: UA-146045305-1
+
 # URL
 ## If your site is put in a subdirectory, set url as 'http://yoursite.com/child' and root as '/child/'
 url: https://shigeru-tomizawa.com
