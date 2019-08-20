@@ -11,7 +11,6 @@ author: Shigeru TOMIZAWA
 language: ja
 timezone: Japan
 
-# Google Analytics
 google_analytics: UA-146045305-1
 
 # URL
@@ -76,8 +75,9 @@ pagination_dir: page
 # Extensions
 ## Plugins: https://hexo.io/plugins/
 ## Themes: https://hexo.io/themes/
-theme: light
-all_minifier: true
+# theme: light
+theme: simple-japanese
+# all_minifier: true
 
 # Deployment
 ## Docs: https://hexo.io/docs/deployment.html
