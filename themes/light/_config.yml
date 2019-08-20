@@ -22,7 +22,7 @@ addthis:
   google: true
   pinterest: true
 
-fancybox: true
+fancybox: false
 
 google_analytics: UA-146045305-1
 rss:
