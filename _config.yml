@@ -76,7 +76,6 @@ pagination_dir: page
 ## Plugins: https://hexo.io/plugins/
 ## Themes: https://hexo.io/themes/
 theme: light
-# theme: simple-japanese
 all_minifier: false
 
 # Deployment
